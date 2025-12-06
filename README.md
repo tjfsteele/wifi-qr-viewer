@@ -37,7 +37,7 @@ Install dependencies:
 
 ```bash
 
-pip install qrcode\[pil]
+pip install qrcode[pil]
 
 pip install tkinter
 
